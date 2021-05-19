@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text]<img src=https://github.com/anne-00/angeline_tan/blob/main/images/profile_pic.jpeg?fm=jpg&auto=format&cs=srgb&w=200>
+<img src="https://github.com/anne-00/angeline_tan/blob/main/images/profile_pic.jpeg" width=25% height=25%>
 
 <!-- Add your details -->
 
