@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/annetps/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/anne-00/angeline_tan/blob/main/images/profile_pic.jpeg?fm=jpg&auto=format&cs=srgb&w=200)
+![alt text](img src=https://github.com/anne-00/angeline_tan/blob/main/images/profile_pic.jpeg?fm=jpg&auto=format&cs=srgb&w=200)
 
 <!-- Add your details -->
 
