@@ -20,7 +20,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
+[Experience](https://www.linkedin.com/in/annetps/) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
@@ -30,9 +30,9 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### HIPVAN 
+BUSINESS MANAGER<br>
+Feb-2015 to Feb-2021: 6 years
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
