@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: xxxxxxxx@gmail.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/annetps/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/anne-00/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Github](https://anne-00.github.io)
 <!-- CONTACT Section Ends -->
 
